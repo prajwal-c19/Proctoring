@@ -14,7 +14,7 @@ An AI-based proctoring system that uses computer vision and audio analysis to mo
 
 ---
 🧠 Technologies Used
-* Python
+*Python
 *OpenCV
 *MediaPipe
 *TensorFlow
